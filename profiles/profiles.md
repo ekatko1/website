@@ -7,8 +7,9 @@ Joey Bernhardt
 Twitter: @joeybernhardt
 Github: @joeybernhardt
 
+Egor Katkov
+Twitter: https://twitter.com/egorkatkov1
+GitHub: https://github.com/ekatko1
+ResearchGate: https://www.researchgate.net/profile/Egor-Katkov
 
-Maxime Fraser Franco
-Twitter: @MFraserFranco
-Github: @quantitative-ecologist
 
